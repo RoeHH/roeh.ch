@@ -1,0 +1,27 @@
+.h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+.button_div {
+    text-align: center;
+    width: 195px;
+    position: sticky;
+    top: 0;
+}
+
+button {
+    background-color: #5AF035;
+    border-color: #5AF035;
+    width: 5cm;
+    height: 90px;
+    font-size: 30px;
+}
+
+body {
+    background-image: url('./lukka-coppercoat-outcast_iko_1920x1080_wallpaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
