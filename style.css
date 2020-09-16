@@ -13,7 +13,7 @@
 button {
     background-color: #5AF035;
     border-color: #5AF035;
-    width: 5cm;
+    width: 250px;
     height: 90px;
     font-size: 30px;
 }
@@ -24,4 +24,10 @@ body {
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+    
 }
+
+button:hover {
+    background-color: #AF3C30;
+    border-color: #AF3C30;
+  }
