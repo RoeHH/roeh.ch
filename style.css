@@ -22,7 +22,7 @@
 }
 
 .body_main {
-    background-image: url('./lukka-coppercoat-outcast_iko_1920x1080_wallpaper.jpg');
+    background-image: url('./mainpage/lukka-coppercoat-outcast_iko_1920x1080_wallpaper.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -46,7 +46,7 @@
 }
 
 .body_p {
-    background-image: url('./background_p.jpg');
+    background-image: url('./projects/background_p.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
