@@ -10,18 +10,50 @@
     top: 0;
 }
 
-button {
+
+/*Hauptseite*/
+
+.button_main {
     background-color: #5AF035;
     border-color: #5AF035;
-    width: 5cm;
+    width: 250px;
     height: 90px;
     font-size: 30px;
 }
 
-body {
-    background-image: url('./lukka-coppercoat-outcast_iko_1920x1080_wallpaper.jpg');
+.body_main {
+    background-image: url('./mainpage/lukka-coppercoat-outcast_iko_1920x1080_wallpaper.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+}
+
+.button_p:hover {
+    background-color: #AF3C30;
+    border-color: #AF3C30;
+}
+
+
+/*Projektseite*/
+
+.button_p {
+    background-color: #45a6c0;
+    border-color: #45a6c0;
+    width: 250px;
+    height: 90px;
+    font-size: 30px;
+}
+
+.body_p {
+    background-image: url('./projects/background_p.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.button_p:hover {
+    background-color: #aeb31e;
+    border-color: #aeb31e;
 }
